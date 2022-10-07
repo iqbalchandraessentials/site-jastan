@@ -1,0 +1,95 @@
+.short-information .detail-header {
+    background-color: #FFFF;
+    margin-top: -120px;
+    z-index: 99;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 20px;
+}
+
+.short-information .quote {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.short-information .short-info {
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.benefit {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.benefit .card-benfit {
+    width: 415px;
+    margin-bottom: 100px;
+}
+
+.benefit .list-benefits {
+    margin-top: 100px;
+}
+
+.benefit .short-info {
+    font-size: 18px;
+    margin-top: 25px;
+}
+
+.benefit .title-benefit {
+    font-size: 22px;
+    margin-top: 30px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.benefit .short-info {
+    font-size: 18px;
+    line-height: 32px;
+}
+
+
+
+.register    {
+    margin-top: 100px;
+    padding: 70px;
+    margin-bottom: 100px;
+  }
+  
+  .register  .title-banner {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+  }
+
+  .register  .btn-read {
+    padding: 0.75rem 3rem;
+    background-color: #E87921;
+    color: #FFFFFF;
+ }
+
+ .register .img-register-now {
+    width: 100px;
+ }
+
+.download {
+    margin-bottom: 100px;
+}
+
+ .download .title-info {
+    font-size: 22px;
+    font-weight: 600;
+ }
+
+ .download .text-4xl {
+    margin-bottom: 100px;
+ }
+
+ .download .p-download {
+    font-weight: 500;
+    font-size: 18px;
+ }
+
